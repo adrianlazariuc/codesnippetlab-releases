@@ -25,6 +25,16 @@ A powerful, privacy-first desktop application for managing code snippets.
 
 **No installation required** - completely portable!
 
+## Getting Started
+
+Want to test CodeSnippetLab with some examples? You can import the `example-snippets.md` file included in this release:
+
+1. Launch CodeSnippetLab
+2. Use the Import feature to load `example-snippets.md`
+3. Explore the collection of example snippets across multiple programming languages
+
+The example file contains sample code snippets in JavaScript, TypeScript, Python, Java, Go, Rust, C++, C, C#, PHP, Ruby, Swift, Kotlin, HTML, CSS, SQL, JSON, YAML, Markdown, Bash, and PowerShell.
+
 ## Requirements
 
 - Windows 10 or later
